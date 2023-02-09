@@ -1,0 +1,8 @@
+fix(api): correct http responce code under /api/v1/cluster 
+
+Changed code that did this and that
+
+yada yada
+
+Reviewed-by: Senounta Nikos
+Refs: #HL-102

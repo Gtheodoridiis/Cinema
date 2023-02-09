@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.5](https://github.com/Gtheodoridiis/Cinema/compare/v1.5.7...v2.3.5) (2023-02-09)
+
 ### [1.5.7](https://github.com/Gtheodoridiis/Cinema/compare/v1.1.6...v1.5.7) (2023-02-09)
 
 ### [1.1.6](https://github.com/Gtheodoridiis/Cinema/compare/v1.1.4...v1.1.6) (2023-02-09)

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.10.2](https://github.com/Gtheodoridiis/Cinema/compare/v0.10.1...v0.10.2) (2023-02-16)
+
+
+### Features
+
+* **lung:** added ([b74d563](https://github.com/Gtheodoridiis/Cinema/commit/b74d56387cbbd3a41add3de64fafa58e9dd1c199))
+
 ### [0.10.1](https://github.com/Gtheodoridiis/Cinema/compare/v0.10.0...v0.10.1) (2023-02-16)
 
 

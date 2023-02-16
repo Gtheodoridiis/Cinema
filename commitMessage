@@ -1,9 +1,10 @@
-feat(added): correct this chart 
-feat(api): correct the other chart 
-fix(added): correct the other chart 
+fix(api): correct http responce code under /api/v1/cluster 
+fix(api): correct http responce code under /api/v1/cluster 
+
 
 Changed code that did this and that
 
+yada yada
 
-Reviewed-by: Theodoridis George
-Refs: #HL-103
+Reviewed-by: Senounta Nikos
+Refs: #HL-102

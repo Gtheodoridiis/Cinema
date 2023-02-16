@@ -1,5 +1,5 @@
 feat(api): added  /api/v1/cluster 
-fix(api):
+fix(api): added  /api/v1/cluster
 docs(api):
 style (api):
 refactor(api):

@@ -1,4 +1,14 @@
 feat(api): added  /api/v1/cluster 
+fix(api)
+docs(api)
+style (api)
+refactor(api)
+perf(api)
+test(api)
+build(api)
+ci(api)
+chore(api)
+revert(api)
 
 body added this
 added this 

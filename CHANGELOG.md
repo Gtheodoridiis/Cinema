@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/Gtheodoridiis/Cinema/compare/v0.1.4...v0.1.5) (2023-02-16)
+
+
+### Features
+
+* allow provided config object to extend other configs ([022a6c8](https://github.com/Gtheodoridiis/Cinema/commit/022a6c822e1a6b8243d8734ed859701487f348f7))
+
 ### [0.1.4](https://github.com/Gtheodoridiis/Cinema/compare/v0.1.3...v0.1.4) (2023-02-16)
 
 

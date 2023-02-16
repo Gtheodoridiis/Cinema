@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.32](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.31...v0.0.32) (2023-02-16)
+
+
+### Features
+
+* **added:** added one ([ce34f7c](https://github.com/Gtheodoridiis/Cinema/commit/ce34f7cf11393abc51282ec5397e59edc91b92cd)), closes [#HL-105](https://github.com/Gtheodoridiis/Cinema/issues/HL-105)
+
 ### [0.0.31](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.30...v0.0.31) (2023-02-16)
 
 

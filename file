@@ -1,5 +1,6 @@
 feat: allow provided config object to extend other configs
 
+feat(lang): add Polish language
+
 BREAKING CHANGE: `extends` key in config file is now used for extending other config files
 
-feat(lang): add Polish language

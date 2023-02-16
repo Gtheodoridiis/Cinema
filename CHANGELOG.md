@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.41...v0.1.0) (2023-02-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
+### Features
+
+* allow provided config object to extend other configs ([c605959](https://github.com/Gtheodoridiis/Cinema/commit/c60595968182bb55c66ea9aa13f2c3d6bbc20f5c))
+
 ### [0.0.41](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.40...v0.0.41) (2023-02-16)
 
 ### [0.0.40](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.39...v0.0.40) (2023-02-16)

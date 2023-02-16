@@ -1,6 +1,1 @@
-feat: allow provided config object to extend other configs
-
-feat: allow provided config object to extend other configsss
-
-BREAKING CHANGE: `extends` key in config file is now used for extending other config files
-
+feat(lang): added polish language

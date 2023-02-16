@@ -1,4 +1,6 @@
 fix(api): correct http responce code under /api/v1/cluster 
+fix(api): correct3 http responce code under /api/v1/cluster 
+fix(api): correct2 http responce code under /api/v1/cluster 
 
 Changed code that did this and that
 

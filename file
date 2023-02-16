@@ -1,12 +1,3 @@
- fix: correct http responce code under /api/v1/cluster 
-fix : correct http responce code under /api/v1/cluster 
-fix(api): correct http responce code under /api/v1/cluster 
+feat: allow provided config object to extend other configs
 
-
-Changed code that did this and that
-
-yada yada
-
-Reviewed-by: Senounta Nikos
-Refs: #HL-102
-fix(api): correct http responce code under /api/v1/cluster 
+BREAKING CHANGE: `extends` key in config file is now used for extending other config files

@@ -1,9 +1,8 @@
-feat(api):
+doc(api): correct http responce code under /api/v1/cluster 
 
+Changed code that did this and that
 
-body added this
-added this 
-added that
+yada yada
 
-Reviewed-by: George Theodoridis 
+Reviewed-by: Senounta Nikos
 Refs: #HL-102

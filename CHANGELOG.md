@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.23](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.22...v0.0.23) (2023-02-16)
+
+
+### Features
+
+* **added:** correct this chart ([3ba7623](https://github.com/Gtheodoridiis/Cinema/commit/3ba76233ceb07cd3adf6267de9087957b3fc5644)), closes [#HL-102](https://github.com/Gtheodoridiis/Cinema/issues/HL-102)
+
 ### [0.0.22](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.21...v0.0.22) (2023-02-16)
 
 

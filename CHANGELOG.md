@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.36](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.35...v0.0.36) (2023-02-16)
+
+
+### Features
+
+* **api:** correct http responce code under /api/v1/cluster ([0f626ad](https://github.com/Gtheodoridiis/Cinema/commit/0f626ad12b11676938f6e357314afa6ebf84075a)), closes [#HL-102](https://github.com/Gtheodoridiis/Cinema/issues/HL-102)
+
 ### [0.0.35](https://github.com/Gtheodoridiis/Cinema/compare/v0.0.34...v0.0.35) (2023-02-16)
 
 

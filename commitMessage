@@ -1,10 +1,9 @@
-fix(added): correct http responce code under /api/v1/cluster 
-fix(added): correct2 http responce code under /api/v1/cluster 
+feat(added): correct http responce code under /api/v1/cluster 
+feat(added): correct2 http responce code under /api/v1/cluster 
 
 
 Changed code that did this and that
 
-yada yada
 
-Reviewed-by: Senounta Nikos
+Reviewed-by: Theodoridis George
 Refs: #HL-102

@@ -1,3 +1,5 @@
-feat(lang): added polish language : second : third
+feat: allow provided config object to extend other configs
 
-feat(lung): added ss language
+feat: allow provided config object to extend other configs
+
+feat: allow provided config object to extend other configs

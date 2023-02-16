@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/Gtheodoridiis/Cinema/compare/v0.1.2...v0.1.3) (2023-02-16)
+
+
+### Features
+
+* **lang:** added polish language : second : third ([74a1e8b](https://github.com/Gtheodoridiis/Cinema/commit/74a1e8b63add0e1622a9b2403ebee0c71f7804ae))
+
 ### [0.1.2](https://github.com/Gtheodoridiis/Cinema/compare/v0.1.1...v0.1.2) (2023-02-16)
 
 

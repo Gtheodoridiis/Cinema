@@ -1,5 +1,5 @@
-fix(api): correct http responce code under /api/v1/cluster 
-fix(api): correct http responce code under /api/v1/cluster 
+feat(api): added one
+feat(api): added two 
 
 
 Changed code that did this and that
